@@ -22,5 +22,6 @@ body{
     height: 90px;
     background-color: red;
     border: solid black;
+    border-radius: 12px;
 }
 
