@@ -19,7 +19,7 @@ body{
 .wyatt {
     display: inline-block;
     width: 800px;
-    height: 200px;
+    height: 90px;
     background-color: red;
     border: solid black;
 }
