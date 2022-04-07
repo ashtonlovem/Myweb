@@ -1,1 +1,16 @@
+*{
+    font-family: 'Roboto', sans-serif;
+text-align: center;
+color: blue;
+}
 
+.typeabc {
+    display: inline-block;
+    width: 720px;
+    height: 920;
+
+}
+
+body{
+    background-color: lightskyblue;
+}
